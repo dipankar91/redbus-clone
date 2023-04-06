@@ -1,0 +1,11 @@
+.form-wrapper{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.form-wrapper .button{
+    margin-top: 22px;
+}
+.form-wrapper .swap{
+    margin-top: 22px;
+}
